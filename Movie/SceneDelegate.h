@@ -6,6 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "HomeViewController.h"
 
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
 

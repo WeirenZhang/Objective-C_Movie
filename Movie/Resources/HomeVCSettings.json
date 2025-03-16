@@ -1,0 +1,42 @@
+[
+    {
+        "icon": "enl_1",
+        "title": "本周新片",
+        "tab": "0"
+    },
+    {
+        "icon": "enl_3",
+        "title": "本期首輪",
+        "tab": "1"
+    },
+    {
+        "icon": "enl_3",
+        "title": "本期二輪",
+        "tab": "2"
+    },
+    {
+        "icon": "enl_2",
+        "title": "近期上映",
+        "tab": "3"
+    },
+    {
+        "icon": "enl_2",
+        "title": "新片快報",
+        "tab": "4"
+    },
+    {
+        "icon": "enl_4",
+        "title": "電影院",
+        "tab": "5"
+    },
+    {
+        "icon": "enl_5",
+        "title": "我的最愛",
+        "tab": "6"
+    },
+    {
+        "icon": "enl_6",
+        "title": "網路訂票",
+        "tab": "7"
+    }
+]

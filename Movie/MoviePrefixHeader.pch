@@ -1,0 +1,42 @@
+//
+//  MoviePrefixHeader.pch
+//  Movie
+//
+//  Created by User on 2024/11/10.
+//
+
+#ifndef MoviePrefixHeader_pch
+#define MoviePrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+// 基础组件
+#import <VinBaseComponents/VinCocoaExtention.h>
+#import <VinBaseComponents/HTEnumMarcos.h>
+#import <VinBaseComponents/HTMapValueManager.h>
+#import <VinBaseComponents/RACSubject+Extension.h>
+#import <VinBaseComponents/RACCommand+Extension.h>
+#import <VinBaseComponents/NSObject+RACExtension.h>
+#import <VinBaseComponents/UITableView+BlockExtention.h>
+#import <VinBaseComponents/UICollectionView+BlockExtention.h>
+#import <VinBaseComponents/HTCycleView.h>
+#import <VinBaseComponents/HTSegmentView.h>
+
+// 三方库
+#import <QMUIKit/QMUIKit.h>
+#import <YYModel/YYModel.h>
+#import <YYCategories/YYCategories.h>
+#import <Masonry/Masonry.h>
+#import <KafkaRefresh/KafkaRefresh.h>
+#import <SDWebImage/SDWebImage.h>
+
+// 本地文件
+#import "Category.h"
+#import "Config.h"
+#import "Const.h"
+#import "RACCommand+Request.h"
+#import "RACCommand+HTRoute.h"
+//#import "UtilsMethod.h"
+
+#endif /* MoviePrefixHeader_pch */

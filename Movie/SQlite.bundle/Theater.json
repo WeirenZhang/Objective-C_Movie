@@ -1,0 +1,9 @@
+{
+    "table": "Theater",
+    "comment": "Theater",
+    "key": "id",
+    "cols": [{"name": "id", "type": "TEXT"},
+    {"name": "name", "type": "TEXT"},
+    {"name": "adds", "type": "TEXT"},
+    {"name": "tel", "type": "TEXT"}]
+}

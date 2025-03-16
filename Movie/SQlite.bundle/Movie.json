@@ -1,0 +1,10 @@
+{
+    "table": "Movie",
+    "comment": "Movie",
+    "key": "id",
+    "cols": [{"name": "id", "type": "TEXT"},
+    {"name": "title", "type": "TEXT"},
+    {"name": "en", "type": "TEXT"},
+    {"name": "release_movie_time", "type": "TEXT"},
+    {"name": "thumb", "type": "TEXT"}]
+}
